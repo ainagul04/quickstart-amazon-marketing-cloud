@@ -4,8 +4,8 @@
       "repository": "ddk-amc-quickstart"
     },
     "dev": {
-      "account": "111111111111",
-      "region": "us-east-1",
+      "account": "927515790418",
+      "region": "us-east-2",
       "name": "Development",
       "manual_approvals": false,
       "email": "nobody@demo.com",
