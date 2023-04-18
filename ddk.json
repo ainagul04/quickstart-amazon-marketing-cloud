@@ -1,7 +1,7 @@
 {
   "environments": {
     "cicd": {
-      "repository": "amc-aina-demo"
+      "repository": "ddk-amc-quickstart"
     },
     "dev": {
       "account": "927515790418",
